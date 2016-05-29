@@ -308,6 +308,20 @@ hr {
     
 }
 
+
+footer {
+    
+    height: 25vh;
+    background-color: dodgerblue;
+}
+footer p {
+    
+    text-align: center;
+
+}
+
+
+
 @media (max-width: 500px) {
     
  .love section {
